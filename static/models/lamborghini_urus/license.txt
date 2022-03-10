@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lamborghini Urus
+* source:	https://sketchfab.com/3d-models/lamborghini-urus-2650599973b649ddb4460ff6c03e4aa2
+* author:	iSteven (https://sketchfab.com/Steven007)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lamborghini Urus" (https://sketchfab.com/3d-models/lamborghini-urus-2650599973b649ddb4460ff6c03e4aa2) by iSteven (https://sketchfab.com/Steven007) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
